@@ -1,4 +1,4 @@
-FELIPE KAIZER is
+### Felipe Kaizer is
 
 * a professor of Design History and Social Fundamentals of Design at the Faculty of Architecture, Urbanism and Design at the University of São Paulo ([FAU-USP](https://www.fau.usp.br/)), where he coordinates, together with Prof. Eduardo Augusto Costa, the DHMM Laboratory (Design, History, Matter, and Memory).
 * a graphic designer who worked at [Instituto Moreira Salles](http://ims.com.br/) (2017), [Fundação Bienal de São Paulo](http://www.bienal.org.br/) (2009-2015) and [Tecnopop](http://www.tecnopop.com.br/) (2005-2006).
@@ -9,7 +9,7 @@ FELIPE KAIZER is
 
 ***
 
-PROFILES
+### Profiles
 
 [CNPq Lattes](http://lattes.cnpq.br/2422427122106953)  
 
@@ -35,7 +35,9 @@ PROFILES
 
 ***
 
-O DRAMA DO PROJETO, his doctoral thesis, was first [published](https://sabia.pub/product/o-drama-do-projeto-uma-teoria-do-design) in 2022.
+### O Drama do Projeto
+
+Kaizer's doctoral thesis was first [published](https://sabia.pub/product/o-drama-do-projeto-uma-teoria-do-design) in 2022.
 
 ![Livro](images/kaizer-image.png)
 
