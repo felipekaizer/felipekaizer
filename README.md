@@ -2,5 +2,6 @@
 
 Felipe Kaizer 
 
-fk@felipekaizer.com
-[https://twitter.com/felipe_kaizer](x-twitter)
+<fk@felipekaizer.com>
+
+[x-twitter](https://twitter.com/felipe_kaizer)
