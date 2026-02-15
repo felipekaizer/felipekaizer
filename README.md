@@ -6,7 +6,7 @@
 
 His doctoral thesis, entitled [_O Drama do Projeto_](https://sabia.pub/product/o-drama-do-projeto-uma-teoria-do-design), was first published in 2022.
 
-
+![Livro](images/kaizer-image.png)
 
 
 
