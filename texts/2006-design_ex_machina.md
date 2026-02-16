@@ -658,7 +658,7 @@ Tendo em vista que são os interpretantes que projetam livremente, o desafio do 
 
 Devemos impreterivelmente perceber a diferença crucial entre a conformação – naturalmente pragmática e teleológica como a *poiésis* aristotélica e a fabricação arendtiana – e a designação se quisermos superar o antagonismo entre ideologia e produção:
 
-![gráfico]({{ site.url }}/graphics/vectors/design_ex_machina-scheme.svg)
+![gráfico](/vectors/design_ex_machina-scheme.svg)
 
 Esse é o efeito provocado no *status quo*, e mesmo Jones concordaria com isso, já que o desígnio não deseja uma *forma* específica, mas uma *mudança no mundo das coisas feitas pelo homem*. O que no entanto foi negligenciado nesse histórico de metodologias de *design* é justamente a contribuição decisiva dos interpretantes; tendo em mente uma concepção mecanicista da sociedade, que via o movimento do todo como simples somatório dos movimentos das partes. Os efeitos não estão de antemão definidos e as leis da conformação – da fabricação arendtiana – não são as mesmas do desígnio.
 
