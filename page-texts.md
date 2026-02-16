@@ -8,7 +8,7 @@
 
 [Aloisio Magalhães e o problema do design nacional](/texts/2021-aloisio-magalhaes-e-o-problema-do-design-nacional/)
 
-[O objetivo e o social em debate [Wim Crouwel vs Jan van Toorn, 1972]](/texts/2021-o_objetivo_e_o_social_em_debate/)
+[O objetivo e o social em debate {Wim Crouwel vs Jan van Toorn, 1972}](/texts/2021-o_objetivo_e_o_social_em_debate)
 
 ***
 
