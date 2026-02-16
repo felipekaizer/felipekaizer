@@ -9,7 +9,7 @@ authors: Felipe Kaizer
 Texto para **Tendências do Livro de Artista no Brasil (Vol.2)** de Galciani Neves, [Galeria Vermelho], 2012-09-11 – 2012-11-10.
 
 <div class="figure" markdown='1'>
-![]({{ site.url }}/graphics/images/8_0.jpg)
+![](/images/8_0.jpg)
 </div>
 
 ## 1

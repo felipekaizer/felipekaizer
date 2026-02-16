@@ -8,7 +8,7 @@ authors:
     - Luiza Crosman
 ---
 
-![]({{ site.url }}graphics/images/tumblr_nugw7qWxer1tju0ivo3_400.png)
+![](/images/tumblr_nugw7qWxer1tju0ivo3_400.png)
 
 Esta é A profecia da linha d’água, que separa as obras mortas das obras vivas, revelada a Felipe Kaizer e Luiza Crosman entre novembro de 2014 e janeiro de 2015.
 

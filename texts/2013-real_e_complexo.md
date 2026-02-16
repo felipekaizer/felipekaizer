@@ -10,7 +10,7 @@ authors: Felipe Kaizer
 
 <div class="figure" markdown="1">
 
-![]({{ site.url }}/graphics/images/f0ec2a5899730a817d2565d738360c2b.jpg)
+![](/images/f0ec2a5899730a817d2565d738360c2b.jpg)
 
 _Design para um mundo complexo_. Rafael Cardoso. Cosac Naify, 2012
 {: .caption}
@@ -29,7 +29,7 @@ Devemos levar a sério a incapacidade do autor de chegar a novas sínteses. A hi
 Entretanto, onde se espera que Cardoso confesse abertamente sua filiação ao empirismo encontram-se apenas os apelos vagos ao senso comum. Essa omissão não deve ser entendida como um mero descuido do autor, mas como uma consequência da aceitação irrefletiva de uma série de pressupostos. Soma-se a isto a dificuldade dessa tradição de problematizar a natureza do fenômeno. Dificuldade que vem à tona toda vez que Cardoso tenta articular sujeito e objeto no processo de significação; o impasse entre a contribuição individual à experiência e o modo como os artefatos carregam significados se estende até o final do livro. Logo, essa “operação [dos artefatos materiais que] como signo foge do esquema consagrado pelos modelos semióticos tradicionais” jamais é esclarecida, tampouco o mecanismo de agregação de valor de mercado. É desse modo que o livro perde a chance de propor uma discussão mais séria acerca da complexidade atribuída ao nosso mundo. Ademais, seu viés historicista obriga o leitor desde o início a incorrer no erro comum de conceber a complexidade em termos de gradações ou etapas – como se o nosso mundo fosse mais complexo simplesmente por ter se seguido a um outro.
 
 <div class="figure" markdown="1">
-![]({{ site.url }}/graphics/images/84bf9449e6c2c63df9f4aadb754f4b23.jpg)
+![](/images/84bf9449e6c2c63df9f4aadb754f4b23.jpg)
 
 Papanek lecionando no Kansas City Art Intitute onde ele era chefe de design entre 1976 e 1981
 {: .caption}

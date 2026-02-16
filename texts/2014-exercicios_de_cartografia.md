@@ -12,7 +12,7 @@ Texto-base para a apresentação inicial sobre história dos cartogramas e diagr
 <p class="cc"><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>. <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Exercícios de cartografia</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Felipe Kaizer</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="www.felipekaizer.com" rel="cc:morePermissions">www.felipekaizer.com</a>.</p>
 
 <div class="figure" markdown='1'>
-![]({{ site.url }}/graphics/images/nut_2_skies.jpg)
+![](/images/nut_2_skies.jpg)
 
 Deusa egípcia Nut (Via Láctea). Tumba de Ramsés VI, 1300 AEC.
 {: .caption}

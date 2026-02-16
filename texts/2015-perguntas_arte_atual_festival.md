@@ -17,7 +17,7 @@ Textos produzidos como resultado do acompanhamento crítico da exposição [Arte
 [Pergunta nº 4] – É possível dar nome ao incompreensível?
 
 <div class="figure" markdown='1'>
-![]({{ site.url }}/graphics/images/dsc-0016-pano.jpg)
+![](/images/dsc-0016-pano.jpg)
 </div>
 
 Os textos a seguir visam explicitar uma série de indagações surgidas durante o processo de desenvolvimento do Arte Atual Festival. As primeiras conversas entre a curadora Priscyla Gomes, o crítico Felipe Kaizer e os artistas Pedro França/Cia Teatral UEINZZ e Luísa Nóbrega geraram rascunhos, correspondências, apontamentos e imagens por meio dos quais se delineou um formato de texto baseado em perguntas, de acordo com as premissas de uma mostra aberta à experimentação e ao acaso. Cada pergunta – escolhida entre inúmeras – suscitou tentativas de resposta por parte da curadora e do crítico. Ao término, a série ilimitada de textos, discorre sobre essas questões a fim de revisar e publicizar o processo de reflexão iniciado meses antes da data de abertura e até hoje inacabado.

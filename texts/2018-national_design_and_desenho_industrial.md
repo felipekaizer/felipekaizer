@@ -23,7 +23,7 @@ Book of Abstracts (eBook)
 
 [DOI 10.29327/115614.11-1]
 
-[PDF]
+[PDF](/pdfs/National_Design_and_Desenho_Industrial_B.pdf)
 
 ***
 
@@ -36,4 +36,3 @@ Book of Abstracts (eBook)
 [ISBN 978-84-9168-175-5]: http://www.edicions.ub.edu/ficha.aspx?cod=08911
 [ISBN 978-84-9168-156-4]: http://www.edicions.ub.edu/ficha.aspx?cod=08910
 [DOI 10.29327/115614.11-1]: https://doi.org/10.29327/115614.11-1
-[PDF]: {{ site.url }}/graphics/pdfs/National_Design_and_Desenho_Industrial_B.pdf

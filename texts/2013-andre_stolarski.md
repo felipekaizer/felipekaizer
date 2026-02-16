@@ -13,7 +13,7 @@ Revista [Ciano](http://revistaciano.wordpress.com/), v. 3, n. 1, 2013
 
 <div class='' markdown='1'>
 
-![]({{ site.url }}/graphics/images/IMG_0332.JPG)
+![](/images/IMG_0332.JPG)
 
 </div>
 

@@ -13,7 +13,7 @@ ISSN 1983-196X
 
 [DOI 10.35522/eed.v28i2.985]
 
-[PDF]
+[PDF](/pdfs/985-2400-2-PB.pdf)
 
 ***
 
@@ -36,4 +36,3 @@ In this article, we investigate the ambiguous employment of the terms â€œstyleâ€
 Design and Architecture. Modern Movement. History of Ideas.
 
 [DOI 10.35522/eed.v28i2.985]: https://doi.org/10.35522/eed.v28i2.985
-[PDF]: {{ site.url }}/graphics/pdfs/985-2400-2-PB.pdf

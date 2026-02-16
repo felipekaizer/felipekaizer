@@ -8,7 +8,7 @@ authors: Felipe Kaizer
 
 Artigo científico produzido para o 8º fórum de Pesquisa [FAU-Mackenzie] em outubro de 2013.
 
-[PDF]
+[PDF](/pdfs/DES-PRJ-03.pdf)
 
 ***
 
@@ -26,7 +26,6 @@ Artigo científico produzido para o 8º fórum de Pesquisa [FAU-Mackenzie] em ou
 
 ***
 
-[PDF]: {{ site.url }}/graphics/pdfs/DES-PRJ-03.pdf
 [FAU-Mackenzie]: http://www.mackenzie.br/fau.html
 [Centro Universitário Maria Antonia]: http://mariantonia.prceu.usp.br/
 [o trabalho de conclusão homônimo]: {{ site.url }}/texts/2013-uma_proposta_de_base_de_dados-projeto.html

@@ -15,7 +15,7 @@ ISSN 2525-8354
 
 [DOI 10.11606/issn.2525-8354.v8i8p141-165]
 
-[PDF]
+[PDF](/pdfs/Experiencia_e_representacao_por_uma_feno.pdf)
 
 ***
 
@@ -40,4 +40,3 @@ ISSN 2525-8354
 **Keywords:** Cinema. Image. Phenomenology. Experience. Politics.
 
 [DOI 10.11606/issn.2525-8354.v8i8p141-165]: https://doi.org/10.11606/issn.2525-8354.v8i8p141-165
-[PDF]: {{ site.url }}/graphics/pdfs/Experiencia_e_representacao_por_uma_feno.pdf

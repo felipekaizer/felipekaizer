@@ -15,7 +15,7 @@ ISSN 2526-9933
 
 [DOI 10.29327/16976]
 
-[PDF]
+[PDF](/pdfs/59229.pdf)
 
 ***
 
@@ -39,4 +39,3 @@ Planning. Strategy. Uncertainty. Business Design. Design and Services.
 
 [SPGD/ESDI/UERJ]: https://www.even3.com.br/anais/spgd_2017/59229-efeituacao-e-projeto--aproximacoes-entre-os-fundamentos-do-empreendedorismo-da-gestao-e-do-design/
 [DOI 10.29327/16976]: https://doi.org/10.29327/16976
-[PDF]: {{ site.url }}/graphics/pdfs/59229.pdf

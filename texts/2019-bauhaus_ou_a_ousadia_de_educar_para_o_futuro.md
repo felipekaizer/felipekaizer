@@ -12,7 +12,7 @@ authors: Felipe Kaizer
 [Select], 2019-06-14
 
 <div class="figure" markdown='1'>
-![]({{ site.url }}/graphics/images/bauhaus-manifesto-1919.png)
+![](/images/bauhaus-manifesto-1919.png)
 
 Manifesto Bauhaus, de 1919, com a gravura *Zukunftskathedrale* – em português, a Catedral do Futuro – de Lyonel Feininger (Foto: Reprodução)
 {: .caption }

@@ -15,7 +15,7 @@ ISSN 2447-3499
 
 ISSN ONLINE 2526-9933
 
-[PDF]
+[PDF](/pdfs/59244.pdf)
 
 ***
 
@@ -32,4 +32,3 @@ ISSN ONLINE 2526-9933
 **Keywords:** Design, architecture and urbanism. Social space. Industry and technology. Culture and society. Design history.
 
 [SPGD/ESDI/UERJ]: https://www.even3.com.br/anais/spgd_2017/59244-projeto-ambiente-e-sociedade-urbana/
-[PDF]: {{ site.url }}/graphics/pdfs/59244.pdf

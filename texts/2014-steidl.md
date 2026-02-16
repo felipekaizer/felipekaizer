@@ -13,7 +13,7 @@ authors: Felipe Kaizer
 Em toda forma de arte, é comum encontrar gêneros mais privilegiados. Assim como os retratos em meio às pinturas, os livros de artista merecem destaque entre as demais publicações. Incomum, no entanto, é o fato de alguns dos melhores livros de artista dos últimos anos remeterem ao mesmo endereço: o número 4 da Düstere Strasse em Göttingen, na Alemanha. Lá trabalha Gerhard Steidl, um homem determinado a produzir nada menos que livros extraordinários. Steidl é também o nome do seu estabelecimento: em suas palavras, menos uma gráfica do que um “laboratório”. Steidl forja nesse lugar, pelo menos desde 1972, edições de artistas como Roni Horn, Robert Frank e Ed Ruscha, bem como publicações sobre moda, fotografia e literatura. Convites e encomendas do mundo todo se avolumam na sua porta. Gerhard não faz segredo desse sucesso e manifesta: “O processo de fazer livros com Steidl é parecido com o da alta costura…”.
 
 <div class="figure" markdown='1'>
-![]({{ site.url }}/graphics/images/vlcsnap-2014-02-25-14h22m16s193.png)
+![](/images/vlcsnap-2014-02-25-14h22m16s193.png)
 </div>
 
 Com a mala abarrotada de provas e exemplares, Steidl visita seus colaboradores mundo afora. Mantém relações com alguns deles a décadas. A cada viagem, agenda uma bateria de encontros em que decisões são tomadas em questão de minutos. Com papel e caneta, começa um livro novo fazendo poucas perguntas. Com a ajuda de uma tesoura, define formatos e leiautes de imediato no local. Nada de longas conversas por e-mail ou horas diante de um computador a quilômetros de distância dos artistas. Steidl admite que viaja sobretudo para poupar tempo. É um homem de negócios.

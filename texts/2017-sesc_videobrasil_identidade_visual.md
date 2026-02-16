@@ -11,7 +11,7 @@ authors:
 Texto publicado no site do [projeto] do Sesc Videobrasil em 2017.
 
 <div class="figure" markdown='1'>
-![]({{ site.url }}/graphics/images/identidade-visual_low.jpg)
+![](/images/identidade-visual_low.jpg)
 
 Imagem-conceito publicada em [e-flux], 2017-03-28
 {: .caption }

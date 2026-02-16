@@ -12,7 +12,7 @@ Texto  publicado originalmente como leitura complementar do mês de fevereiro de
 [Recorte], 2021-05-31
 
 <div class="figure" markdown='1'>
-![]({{ site.url }}/graphics/images/O-debate-800x1122.png)
+![](/images/O-debate-800x1122.png)
 
 The Debate: The Legendary Contest of Two Giants of Graphic Design New York: The Monacelli Press, 2015
 {: .caption }
@@ -27,7 +27,7 @@ Este texto trata brevemente dessa querela, partindo da tradução para o inglês
 Antes, porém, uma palavra sobre o evento: o museu Fodor expunha então trabalhos de Van Toorn, mas Crouwel era responsável pela comunicação visual da exposição como designer *in-house* do museu Stedelijk, ao qual o Fodor era ligado. O resultado é uma discrepância entre a identidade institucional e o trabalho exposto, visível no catálogo, cuja capa é idêntica às edições anteriores.
 
 <div class="figure" markdown='1'>
-![]({{ site.url }}/graphics/images/Mienke-Simon-Thomas-Dutch-design-_-a-history-2008-Reaktion-libgen.lc-74-800x834.png)
+![](/images/Mienke-Simon-Thomas-Dutch-design-_-a-history-2008-Reaktion-libgen.lc-74-800x834.png)
 
 Catálogo da exposição Jan van Toorn, museu Fodor, 1972. Design de Wim Crouwel. Cartaz da obra de Jan van Toorn (Calendário Mart.Spruijt 1972/73).
 {: .caption }
@@ -40,12 +40,12 @@ Mas aqui é preciso parar por um instante. Em primeiro lugar, com o que se parec
 Ele tem um lastro histórico e passagem pela Holanda. O *New Alphabet* apoia-se nos trabalhos de vanguarda a partir dos anos 1910, principalmente do grupo De Stijl liderado por Piet Mondrian e Theo van Doesburg. Basta retornar ao desenho tipográfico de Van Doesburg de 1919 para reconhecer a lógica geométrica e modular e o papel secundário relegado às questões de legibilidade[^5].
 
 <div class="figure" markdown='1'>
-![]({{ site.url }}/graphics/images/Typeface_Theo_van_Doesburg-1-800x123.jpg)
+![](/images/Typeface_Theo_van_Doesburg-1-800x123.jpg)
 
 Theo van Doesburg, Alphabet (1919)
 {: .caption }
 
-![]({{ site.url }}/graphics/images/image-06-copy5-1.png)
+![](/images/image-06-copy5-1.png)
 
 Wim Crouwel, New Alphabet (1967)
 {: .caption }
@@ -64,11 +64,11 @@ Além disso, Van Toorn estudou teóricos da mídia e artistas como Bertolt Brech
 Seu projeto de calendário Mart.Spruijt 1972/73 exemplifica bem essa atitude. Imagens de fontes diversas compõem as páginas semanais, a princípio sem muita coerência, mas de acordo com algumas categorias: homens e mulheres comuns; casais e filhos; mulheres glamorosas na mídia; Jeanne Moreau; *pin-ups*; modelos de cabelo; modelos de roupa íntima; celebridades; políticos; clérigos; multidões; manifestantes e soldados; atrocidades; e Angela Davis[^16]. A organização é arbitrária e não há texto explicativo. O resultado é desconcertante e talvez incômodo demais para um ambiente doméstico. Van Toorn quer levar a pensar e, para tanto, aposta em “uma tensão perceptível entre a representação habitual da realidade e a intervenção subjetiva”[^17]. Ou seja: expõe a manufatura da comunicação e expõe a si mesmo como manipulador dos meios de comunicação. Contudo, a despeito da importância histórica do projeto, o sucesso dessa estratégia continua a ser uma incógnita. Como afirma Poynor: “O conceito de design reflexivo de Van Toorn deposita muita fé na vontade e na capacidade das pessoas de interpretar sinais gráficos complexos que, na prática, podem confundi-las ou ser ignorados”[^18].
 
 <div class="figure" markdown='1'>
-![]({{ site.url }}/graphics/images/Jvt_calendar2_525.jpg)
+![](/images/Jvt_calendar2_525.jpg)
 
-![]({{ site.url }}/graphics/images/JvT_calendar5_525.jpg)
+![](/images/JvT_calendar5_525.jpg)
 
-![]({{ site.url }}/graphics/images/JvT_calendar7_525.jpg)
+![](/images/JvT_calendar7_525.jpg)
 
 Jan van Toorn, Calendário Mart.Spruijt 1972/73 (1972).
 {: .caption }
@@ -89,11 +89,11 @@ Consequentemente, Van Toorn coloca em jogo também a própria identidade profiss
 Van Toorn capta uma mudança que ocorre não só na Holanda, mas remete ao sucesso estrondoso do modernismo no meio corporativo global: o esvaziamento do conteúdo sociopolítico do design. É, nesse sentido, que enxerga um limite já em 1972 à atuação dos designers do tipo A: diante dos novos desafios surgidos nos anos 1960, “\[as] pessoas na nossa profissão não têm respostas”[^25].
 
 <div class="figure" markdown='1'>
-![]({{ site.url }}/graphics/images/Degruyter-logo-v2-1-800x834.png)
+![](/images/Degruyter-logo-v2-1-800x834.png)
 
-![]({{ site.url }}/graphics/images/Degruyter-v2-800x834.png)
+![](/images/Degruyter-v2-800x834.png)
     
-![]({{ site.url }}/graphics/images/Degruyter-embalagem-v2-800x834.png)
+![](/images/Degruyter-embalagem-v2-800x834.png)
 
 Ben Bos (Total Design), De Gruyter (marca e projeto de embalagem), 1971.
 {: .caption }

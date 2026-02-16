@@ -134,7 +134,7 @@ O objetivo expresso desse movimento era o estabelecimento dos fundamentos de uma
 
 Visando a fundamentação de uma ciência radicalmente diferente das naturais analíticas, a extensão do seu trabalho ignora as fronteiras e interesses corporativos da época. Desse modo, sua concepção de ciência do artificial se opõe ao reconhecimento pelo senso comum dos limites disciplinares bem estabelecidos pelo mercado e pela academia. Não obstante a marginalidade dessa visão singular, podemos nos valer dela aqui para reformular por completo a posição que este projeto ocupa em relações aos grandes domínios descritos, tal como especulo no esquema abaixo:
 
-![esquema simples]({{ site.url }}/graphics/images/uma_proposta-design_ciencia_info.gif)
+![esquema simples](/images/uma_proposta-design_ciencia_info.gif)
 
 Para além disso tudo, Simon traça em diversos pontos da sua investigação um paralelo entre o funcionamento de um computador e o da mente de um designer, a ponto de afirmar que ambos pertencem à mesma família dos “sistemas de símbolos” (Simon, pp. 21-22, tradução minha). Se juntamos a isto à nota de Cross sobre o surgimento concomitante ao Design Methods dos “primeiros computadores destinados à solução de problemas” (Cross, p. 1), começamos a entender como os autores naquela época encaravam o que chamamos de “teoria do design”. Logo, a coincidência entre os primórdios de um novo campo de conhecimento e a série de problemas derivados do desenvolvimento tecnológico dos computadores deve ser vista com suspeita. Do ponto de vista deste projeto, porém, aproveita-se somente uma indicação: de que a teoria do projeto ganha corpo justamente quando precisa dar conta de problemas radicalmente abstratos, em outras palavras, de como resolvemos qualquer problema e não apenas um problema determinado.
 
@@ -174,7 +174,7 @@ Nesta proposta precisei batizar as fontes de informação – como edições, ma
 
 Apesar de a base de dados ser sobre a história do Centro, daí não se segue que os dados ou as informações sejam históricas. É preciso dizer de forma mais exata que os dados são de interesse histórico, e que essa história não possui fronteiras que a delimitem claramente – ela mais se parece com um ponto focal, onde o campo abrangido se expande ou se contrai dependendo do interesse do pesquisador.
 
-![esquema simples]({{ site.url }}/graphics/images/uma_proposta-centro.gif)
+![esquema simples](/images/uma_proposta-centro.gif)
 
 #### Relevância dos dados
 
@@ -243,7 +243,7 @@ Em função do seu propósito, a base de dados possui um núcleo, composto pelas
 
 A ausência de relação entre os itens que não são “fontes” responde ao caráter estrito deste projeto, que quer “simplesmente trazer à tona a existência das fontes de informação”. Isso significa que se evitou ao máximo à inflação da estrutura com funcionalidades de relevância duvidosa (como a relação entre etiquetas e graus), prezando, ao invés disso, pelas relações que as fontes mantém entre si. O esquema simplificado a seguir apresenta os principais itens e relações.
 
-![esquema simples]({{ site.url }}/graphics/images/uma_proposta-simple_scheme.gif)
+![esquema simples](/images/uma_proposta-simple_scheme.gif)
 
 Os itens se subdividem em subitens, que por conseguinte se subdividem em classes que possuem no geral atributos. Na maioria dos bancos de dados relacionais implementados as classes correspondem às tabelas, e os atributos aos campos. Alguns subitens possuem classes auxiliares, que normalizam (ver Date e Churcher) dados repetitivos, como, por exemplo, os tipos possíveis de eventos (“festa”, “simpósio”, “formatura” etc.). Os nomes das classes e dos atributos são curtos e simples, facilitando a sua identificação, procura e sufixão. Na série de tabelas a seguir utilizou-se uma fonte tipográfica monoespacejada para indicar o nome das tabelas e dos campos (estes em itálico).
 

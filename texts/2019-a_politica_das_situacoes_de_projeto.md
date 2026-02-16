@@ -15,7 +15,7 @@ ISSN 2447-3499
 
 ISSN ONLINE 2526-9933
 
-[PDF]
+[PDF](/pdfs/56e6ebe5d8914768baa3.pdf)
 
 ***
 
@@ -43,5 +43,4 @@ DOI: https://doi.org/10.18682/cdc.vi121
 
 https://fido.palermo.edu/servicios_dyc/publicacionesdc/cuadernos/detalle_articulo.php?id_libro=869&id_articulo=17536
 
-[PDF]: {{ site.url }}/graphics/pdfs/56e6ebe5d8914768baa3.pdf
 [SPGD/ESDI/UERJ]: https://www.even3.com.br/anais/spgd_2019/220632-a-politica-das-situacoes-de-projeto--uma-investigacao-teorica-em-torno-do-plano-de-metas-do-governo-juscelino-kub/

@@ -13,7 +13,7 @@ Contra, 2014-04
 "… tenho em mente um texto curto, mais prescritivo. Quase uma reflexão espiritual (isso talvez porque tenho lido Padre Antonio Vieira e Marx simultaneamente). — Felipe Kaizer, 18 de novembro de 2011"
 
 <div class="figure" markdown="1">
-![]({{ site.url }}/graphics/images/tumblr_nugwk36RX61tju0ivo2_400.png)
+![](/images/tumblr_nugwk36RX61tju0ivo2_400.png)
 </div>
 
 **Após vencer os etruscos em 458 a.C., Cincinato largou a ditadura em Roma e voltou para a sua fazenda. Entusiasmados com o retorno modesto à vida campestre após atos tão heroicos, os romanos o convidaram a ser rei. Logicamente, Cincinato recusou o convite: se quisesse ser rei lhe faltaria a modéstia em razão da qual foi convidado.**
