@@ -35,3 +35,4 @@ O Drama do Projeto, Kaizer's doctoral thesis, was first published in 2022 by [Ed
 
 ![Livro](images/kaizer-image.png)
 
+[Texts](page-texts.md)
