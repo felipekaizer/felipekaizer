@@ -14,7 +14,7 @@ authors:
 
 Exposição individual de Eduardo Berliner, Galeria Triângulo (São Paulo), 2016.
 
-[PDF]
+[PDF](/pdfs/EB_preview_CT2016.pdf)
 
 [Vitruvius (Drops)], 2016-10 (versão reduzida) 
 
@@ -45,5 +45,4 @@ Entre o imagético, o matérico e o pessoal, esses corpos em muda dão a ver alg
 
 Portanto, os corpos em muda de Berliner não remetem apenas à profusão de possibilidades do corpo fecundo mas também ao mistério da maturação: à impossibilidade do atual de descortinar o futuro de si. No romance, a gêmea da criança plantada vivencia o limite do seu próprio devir: pede ao pai que corte-lhe o corpo, que a impeça de mudar, para que não entre em descompasso com a irmã. Assim, encontramos em Eduardo Berliner e Valter Hugo Mãe o momento da alteridade: de que o eu não pode evitar sua transmutação em um outro. Do mesmo modo, não é possível preterir o encontro com o que é distinto. Somos surpreendidos pelo instante em que o potencial para a mudança congrega os mais variados caminhos, por onde germinam o raquítico e o gracioso, o prosaico e o brutal.
 
-[PDF]: {{ site.url }}graphics/pdfs/EB_preview_CT2016.pdf
 [Vitruvius (Drops)]: http://www.vitruvius.com.br/revistas/read/drops/17.109/6259
