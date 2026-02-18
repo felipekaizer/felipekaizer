@@ -6,6 +6,8 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# Design Ex Machina
+
 A todos os projetistas que, saudavelmente, já cogitaram abandonar o exercício da profissão.
 
 ***
