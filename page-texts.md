@@ -1,5 +1,7 @@
 # Texts
 
+***
+
 2025
 
 A jornada histórica do usuário: de Frederick Taylor a Donald Norman
