@@ -6,7 +6,7 @@
 
 A jornada histórica do usuário: de Frederick Taylor a Donald Norman
 
-Histórias do Design no Brasil IV
+Histórias do Design no Brasil IV [Livro]
 
 O Drama e a Era do Projeto
 
@@ -14,13 +14,13 @@ O Drama e a Era do Projeto
 
 2024
 
-A ideia de cultura material no contexto britânico de pesquisa em design
-
 [Lembrei do que eu queria falar](/texts/2024-lembrei_do_que_eu_queria_falar)
+
+A ideia de cultura material no contexto britânico de pesquisa em design
 
 A _História Mundial do Design_ de Victor Margolin e seus problemas
 
-O _komorebi_ de Wenders uma abordagem fenomenológica de Dias Perfeitos (2023)
+O _komorebi_ de Wenders uma abordagem fenomenológica de _Dias Perfeitos_ (2023)
 
 ***
 
@@ -28,17 +28,15 @@ O _komorebi_ de Wenders uma abordagem fenomenológica de Dias Perfeitos (2023)
 
 After Pevsner: Problems of the new design history
 
-O drama do projeto: uma teoria do design [Livro, 2ª edição]
-
 Ponto, linha e campo: três modos de vero campo do design.
+
+O drama do projeto: uma teoria do design [Livro, 2ª edição]
 
 ***
 
 2022
 
-Ponto, linha e campo: três modos de ver o campo do design
-
-O drama do projeto: uma teoria do design [Livro]
+O drama do projeto: uma teoria do design [Livro, 1ª edição]
 
 ***
 
