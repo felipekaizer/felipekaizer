@@ -41,7 +41,7 @@ Aloisio viu no Iphan os meios para efetivar o objetivo conclusivo do CNRC: a dev
 
 Após uma sequência de seminários em que experimentou o contato com as populações de centros históricos e a incorporação do CNRC e do Programa de Cidades Históricas, o Iphan tornou-se uma Secretaria do MEC – a Secretaria do Patrimônio Histórico e Artístico Nacional (Sphan) –, e, na mesma toada, foi criada a Fundação Pró-Memória, ambas sob a direção de Aloisio. Dois anos depois, Aloisio assumiu a nova Secretaria da Cultura do MEC, formada pelo Sphan e pela Secretaria de Assuntos Culturais e mais uma dezena de entidades[^18]. Mas faleceu cerca de um ano depois, em 1982, aos 55 anos.
 
-Não obstante a continuidade do trabalho iniciado por ele na Secretaria – que derivou na criação do Ministério da Cultura em 1985, ideia sobre a qual manifestava receio –, o Brasil já vivia outro contexto socioeconômico, após o declínio do nacional-desenvolvimentismo ao longo dos anos 1970. Finalmente, a crise da dívida externa de 1981 foi seguida por uma década em que a média do PIB *per capita* fechou abaixo de zero[^19],o que explica em parte a dificuldade para sustentar quaisquer políticas de investimento em educação e cultura.
+Não obstante a continuidade do trabalho iniciado por ele na Secretaria – que derivou na criação do Ministério da Cultura em 1985, ideia sobre a qual manifestava receio –, o Brasil já vivia outro contexto socioeconômico, após o declínio do nacional-desenvolvimentismo ao longo dos anos 1970. Finalmente, a crise da dívida externa de 1981 foi seguida por uma década em que a média do PIB *per capita* fechou abaixo de zero[^19], o que explica em parte a dificuldade para sustentar quaisquer políticas de investimento em educação e cultura.
 
 ## Design e educação
 
