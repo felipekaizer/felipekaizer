@@ -43,8 +43,8 @@ ISSN Impresión 1668-0227
 
 ISSN Online: 1853-3523
 
-DOI: https://doi.org/10.18682/cdc.vi121
+DOI: [https://doi.org/10.18682/cdc.vi121](https://doi.org/10.18682/cdc.vi121)
 
-https://fido.palermo.edu/servicios_dyc/publicacionesdc/cuadernos/detalle_articulo.php?id_libro=869&id_articulo=17536
+[https://fido.palermo.edu/servicios_dyc/publicacionesdc/cuadernos/detalle_articulo.php?id_libro=869&id_articulo=17536](https://fido.palermo.edu/servicios_dyc/publicacionesdc/cuadernos/detalle_articulo.php?id_libro=869&id_articulo=17536)
 
 [SPGD/ESDI/UERJ]: https://www.even3.com.br/anais/spgd_2019/220632-a-politica-das-situacoes-de-projeto--uma-investigacao-teorica-em-torno-do-plano-de-metas-do-governo-juscelino-kub/
